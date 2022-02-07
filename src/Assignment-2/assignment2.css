@@ -61,7 +61,7 @@ height: 100%;
     width: 55%;
     display: inline-block;
     /* border: 1px solid; */
-    float: right;
+    /* float: right; */
 }
 #page-footer{
     width: 100%;
